@@ -1,2 +1,3 @@
 # flight_delay
-An exploratory project on applying machine learning to aviation big data for accurate flight delay prediction.
+Advanced machine learning project for flight delay prediction using ensemble models, deep learning, and time series forecasting.
+
